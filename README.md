@@ -1,1 +1,1 @@
-# tinyone
+https://anismomen.github.io/tinyone/
